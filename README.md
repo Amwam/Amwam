@@ -16,4 +16,5 @@
 </p>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/ac3f9c24-afef-441c-833b-31fa7429cb98 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
