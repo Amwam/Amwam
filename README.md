@@ -14,3 +14,6 @@
 <a href="https://instagram.com/amwamamit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amwamamit" height="30" width="30" /></a>
 <a href="https://medium.com/@amwam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amwam" height="30" width="30" /></a>
 </p>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
